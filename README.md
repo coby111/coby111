@@ -97,6 +97,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" />
 </div>
 
-## Snake Animation
 
-![Snake Animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
