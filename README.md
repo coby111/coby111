@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">Connect with Me🌱</h2>
 
 ###
 
@@ -97,13 +97,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" />
 </div>
 
-## My Activities
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coby111&theme=react-dark)
-
 ## Snake Animation
 
-![Snake Animation](https://github.com/coby111/coby111/blob/output/github-contribution-grid-snake.svg)
-
-
-###
+![Snake Animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
