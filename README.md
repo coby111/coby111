@@ -92,8 +92,8 @@
 ###
 
 <div align="center">
-  <p><img align="left" width="60" src="https://github-readme-stats.vercel.app/api/top-langs?username=coby111&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="coby111" /></p>
-  <p>&nbsp;<img align="center" width="60" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" /></p>
+  <p><img align="center" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=coby111&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="coby111" /></p>
+  <p>&nbsp;<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" /></p>
 </div>
 
 ###
