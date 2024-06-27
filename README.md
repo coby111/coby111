@@ -3,9 +3,14 @@
 <h1 align="center">¡Hi! 👋 I'm Asunción Soriano Morales</h1>
 
 ###
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coby111&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="coby111" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" /></p>
+</div>
+###
 
 <p align="left">Welcome to my corner of the GitHub universe! 🚀<br>I am an engineering student from the vibrant land of Mexico🌱. Here you will find a collection of my coding adventures and projects.</p>
-
+- 🔭 I’m currently working on [GPD-Backend](https://github.com/DiegoSHS/gpd_backend)
 ###
 
 <div align="center">
@@ -58,6 +63,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/php/FF6C37" heigth="30" alt="postman logo"  />
 </div>
 
 ###
