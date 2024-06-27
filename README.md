@@ -5,9 +5,10 @@
 ###
 
 <p align="left">Welcome to my corner of the GitHub universe! 🚀<br>I am an engineering student from the vibrant land of Mexico🌱. Here you will find a collection of my coding adventures and projects.</p>
-- 🔭 I’m currently working on [GPD-Backend](https://github.com/DiegoSHS/gpd_backend)
 
 ###
+
+- 🔭 I’m currently working on [GPD-Backend](https://github.com/DiegoSHS/gpd_backend)
 
 <div align="center">
   <img height="200" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
