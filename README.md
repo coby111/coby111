@@ -3,8 +3,10 @@
 <h1 align="center">¡Hi! 👋 I'm Asunción Soriano Morales</h1>
 
 ###
+
 <p align="left">Welcome to my corner of the GitHub universe! 🚀<br>I am an engineering student from the vibrant land of Mexico🌱. Here you will find a collection of my coding adventures and projects.</p>
-- 🔭 I’m currently working on [GPD-Backend](https://github.com/DiegoSHS/gpd_backend)
+<p - 🔭 I’m currently working on [GPD-Backend](https://github.com/DiegoSHS/gpd_backend).</p>
+
 ###
 
 <div align="center">
@@ -58,7 +60,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" heigth="30" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
 
 ###
