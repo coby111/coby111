@@ -89,10 +89,20 @@
   </a>
 </div>
 
-###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coby111&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="coby111" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coby111&theme=dark" alt="coby111" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=coby111&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="coby111" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" />
+</div>
+
+## My Activities
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coby111&theme=react-dark)
+
+## Snake Animation
+
+![Snake Animation](https://github.com/coby111/coby111/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
