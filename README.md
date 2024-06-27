@@ -97,13 +97,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coby111&show_icons=true&theme=tokyonight&locale=en" alt="coby111" />
 </div>
 
-## My Activities
+## Mis Actividades
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coby111&theme=react-dark)
+![Gráfico de Actividad en GitHub](https://activity-graph.herokuapp.com/graph?username=coby111&theme=react-dark)
 
-## Snake Animation
+## Animación de la Serpiente
 
-![Snake Animation](https://github.com/coby111/coby111/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/coby111/coby111/blob/main/output/github-contribution-grid-snake.svg)
 
 
-###
