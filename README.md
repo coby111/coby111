@@ -57,6 +57,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" heigth="30" alt="postman logo"  />
 </div>
 
