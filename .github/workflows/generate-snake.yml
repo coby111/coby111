@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule: 
+    - cron: "0 0 * * *"  # Ejecuta cada día a la medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2  # Checks out your repository under $GITHUB_WORKSPACE
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2  # Set up Node.js environment
+
+      - name: Install dependencies
+        run: npm install  # Installs necessary dependencies, if any
+
+      - name: Generate Snake Animation
+        run: |
+          npm run generate-snake  # Ejecuta el script o comando para generar la animación de la serpiente
+          mkdir -p output  # Crea un directorio para almacenar el archivo SVG generado
+          mv ./github-contribution-grid-snake.svg ./output/  # Mueve el archivo SVG generado al directorio de salida
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4  # Opcional: Commit y push automáticamente los cambios
+        with:
+          commit_message: Generate snake animation
+          branch: main
