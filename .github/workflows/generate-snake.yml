@@ -1,31 +1,23 @@
 name: Generate Snake
 
 on:
-  schedule: 
-    - cron: "0 0 * * *"  # Ejecuta cada día a la medianoche
+  schedule: # Ejecuta la acción cada día a medianoche
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2  # Checks out your repository under $GITHUB_WORKSPACE
+      - name: Checkout GitHub repository
+        uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2  # Set up Node.js environment
-
-      - name: Install dependencies
-        run: npm install  # Installs necessary dependencies, if any
-
-      - name: Generate Snake Animation
-        run: |
-          npm install snake-github-contribution --global
-          snake-github-contribution --user coby111 --output ./output/github-contribution-grid-snake.svg
-
-      - name: Commit and Push
-        uses: stefanzweifel/git-auto-commit-action@v4  # Opcional: Commit y push automáticamente los cambios
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          commit_message: Generate snake animation
-          branch: main
+          github_user_name: coby111
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
